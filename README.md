@@ -7,3 +7,5 @@
 
 
 [Отчет фронтенд .docx](https://github.com/user-attachments/files/25179535/default.docx)
+Сюда же креплю отчет по 3 практики , внутри файла работоспособность
+[Практика 3.docx](https://github.com/user-attachments/files/25675897/3.docx)
